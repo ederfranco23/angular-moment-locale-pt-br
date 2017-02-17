@@ -2,9 +2,9 @@
 
 	"name": "angular-moment-locale-pt-br",
 	"description": "Moment.JS locale pt-br standalone repo alternative",
-	"author": "Uri Shaked (Same as angular-moment)",
+	"author": "Caio Ribeiro Pereira",
 	"license": "MIT",
-	"homepage": "http://github.com/urish/angular-moment",
+	"homepage": "https://github.com/caio-ribeiro-pereira",
 	"main": "./pt-br.js",
 	"repository": {
 		"type": "git",
