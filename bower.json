@@ -1,0 +1,13 @@
+{
+
+	"name": "angular-moment-locale-pt-br",
+	"description": "Moment.JS locale pt-br standalone repo alternative",
+	"author": "Uri Shaked (Same as angular-moment)",
+	"license": "MIT",
+	"homepage": "http://github.com/urish/angular-moment",
+	"main": "./pt-br.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ederfranco23/angular-moment-locale-pt-br.git"
+	}
+}
