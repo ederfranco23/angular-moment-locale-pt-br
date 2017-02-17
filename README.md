@@ -4,4 +4,5 @@ This is just a standalone alternative repository for angular-moment pt-br locale
 
 The original file is [here](https://github.com/moment/moment/tree/develop/locale).
 
-* Install: `bower install angular-moment-locale-pt-br --save`
+Install: 
+`bower install angular-moment-locale-pt-br --save`
